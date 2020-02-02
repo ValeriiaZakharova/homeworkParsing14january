@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  NewsListViewController.swift
 //  HomeWorkParsing
 //
 //  Created by Valeriia Zakharova on 02.02.2020.
@@ -8,13 +8,10 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class NewsListViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
-
-
 }
-
